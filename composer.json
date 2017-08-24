@@ -28,7 +28,6 @@
         "laravel/framework": "~5.3.29|~5.4.0|5.5.x-dev",
         "orchestra/testbench": "~3.3.0|~3.4.0|3.5.x-dev",
         "orchestra/database": "~3.3.0|~3.4.0|3.5.x-dev",
-        "orchestra/testbench-core": "~3.3.0|~3.4.0|3.5.x-dev",
         "laravel/browser-kit-testing": "~1.0.0|2.0.x-dev",
         "orchestra/testbench-browser-kit": "~3.3.0|~3.4.0|3.5.x-dev",
         "codeclimate/php-test-reporter": "dev-master"
